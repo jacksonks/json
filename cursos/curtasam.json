@@ -46,8 +46,194 @@
          "descricao":"Diretor, Roteirista, Produtor, Fotógrafo e Ator",
          "curtas":[
             {
-               "id":"AMIZADE",
-               "nome":"AMIZADE"
+               "id":"1",
+               "nome":"AMIZADE",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"LGfBjKKvcSA",
+               "texto":"Aborda de maneira simples e poética o significado de uma amizade. Direcionado ao público infantil, mas agradando também o publico adulto que vivenciou durante anos o seriado de Roberto Bolaños. Finaliza fazendo uma singela homenagem ao idealizador e executor do seriado Chaves."
+            },
+            {
+               "id":"2",
+               "nome":"VOCÊ FUMA?",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"Q620JBLrjnw",
+               "texto":"Em forma de conscientização na luta contra o tabagismo, o curta apresenta um diálogo entre uma criança de rua e um homem bem sucedido."
+            },
+            {
+               "id":"3",
+               "nome":"AMOR MALANDRO",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"UmC0ym7pxsE",
+               "texto":"Essa comédia retrata o relacionamento conturbado de um casal que se ama, mas sempre briga."
+            },
+            {
+               "id":"4",
+               "nome":"ESTRANHOS",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"FM_lbghl5fM",
+               "texto":"Um relacionamento entre dois jovens parece não estar indo bem. Eles praticamente não se falam e o motivo poderia estar relacionado com a mãe da garota."
+            },
+            {
+               "id":"5",
+               "nome":"ACASO, DESTINO OU ALGO MAIS",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"ZCZxaWektHA",
+               "texto":"Esta ficção coloca em evidência a questão do racismo."
+            },
+            {
+               "id":"6",
+               "nome":"190 Emergência ?",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"u1aU19uoSAs",
+               "texto":"O curta aborda as ligações telefônicas prejudiciais, conhecidas como trote, que acabam atrapalhando o serviço da Polícia."
+            },
+            {
+               "id":"7",
+               "nome":"INCONDICIONAL",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"uhcgVFNfNoE",
+               "texto":"Em sua segunda animação com fotografias, Davi Marinho consegue abordar o tema inclusão e representatividade de forma leve e delicada. Neste filme uma criança vai a um pet shop para comprar um cachorrinho, mas o dono do estabelecimento tenta fazer com que ela desista da ideia por conta de um pequeno “probleminha”."
+            },
+            {
+               "id":"8",
+               "nome":"O DUELO",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"wj3Edh1NZwc",
+               "texto":"Qual seria sua reação se um assaltante armado tentasse lhe roubar o carro que você dirige? A reação de uma velhinha foi bem surpreendente. Este foi o primeiro trabalho no audiovisual de Davi Marinho, onde ele é assistente de direção do filme que foi premiado no primeiro festival de curtas de um minuto do Amazonas."
+            },
+            {
+               "id":"9",
+               "nome":"O PRESENTE DE LUIZA",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"WD-oJv2UlSg",
+               "texto":"Um jovem tenta de várias maneiras conquistar sua amada, mas a forma como ele consegue não é nada convencional."
+            },
+            {
+               "id":"10",
+               "nome":"SINTA",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"I7N5GHv2Z-8",
+               "texto":"Um casal se despede em mais um dia de trabalho mas a esposa tem um pressentimento ruim. O que será ?"
+            },
+            {
+               "id":"11",
+               "nome":"A MESA",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"EEbc8MppQKY",
+               "texto":"Vencedor de um concurso cultural de roteiros, o filme conta a história de uma jovem que retorna a sua terra natal e, a cada esquina, relembra o passado."
+            },
+            {
+               "id":"12",
+               "nome":"Amor ao próximo",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"iI1glQTMk_A",
+               "texto":"Feito para ser uma campanha de conscientização sobre doação de órgãos, este filme foi idealizado e dirigido por Jairo Freitas, que na época esperava um transplante de fígado e hoje já está no acompanhamento pós-cirúrgico. Neste curta um acidente com uma jovem dá esperança para que Jairo, mas o grande desafio é fazer com que a família da jovem aceite dor os órgãos a quem precisa."
+            },
+            {
+               "id":"13",
+               "nome":"O PALHAÇO",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"QPYpPOCQ4YU",
+               "texto":"Um homem tem fixação por palhaços ao ponto de prejudicar seu próprio casamento. Um palhaço assassino atormenta jovens que estão em busca de diversão."
+            },
+            {
+               "id":"14",
+               "nome":"BOA NOITE PAPAI",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"RgN3m9FuFOc",
+               "texto":"Alguns relacionamentos entre pais filhos deveriam durar para sempre. Será mesmo ? BOA NOITE PAPAI, vai colocar esta duvida na cabeça de quem o assiste. Será que vale a pena ser apegado demais aos nossos filhos ?"
+            },
+            {
+               "id":"15",
+               "nome":"Que país é esse ?",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"PAx_FV8a15k",
+               "texto":"O curta questiona a valorização do professor e das pessoas que agem de má fé para conseguirem se dar bem na vida."
+            },
+            {
+               "id":"16",
+               "nome":"AGONIA",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"AkMXuKqxsBA",
+               "texto":"Gaspar é um jovem que narra uma experiência única em sua vida. Mesmo sem saber direito o que aconteceu em um momento recente, ele vai recordando tudo que vivenciou ao nos mostrar de modo confuso, o que torna a história envolvente a cada segundo. Este suspense nos instiga a querer saber que experiência é esta que deixou Gaspar tão transtornado."
+            },
+            {
+               "id":"17",
+               "nome":"ESTRANHOS",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"8_RCNJ73zd4",
+               "texto":"A história se passa em uma casa, onde duas pessoas convivem mas estão sem se falar. Luana suplica o perdão de Lucas, que ignora totalmente. Será que Lucas tem motivo para realmente ignorar Luana ? Esse suspense só será desvendado quando ambos se derem conta do que está atrapalhando sua comunicação."
+            },
+            {
+               "id":"18",
+               "nome":"BOA NOITE PAPAI",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"mJf8P4cbNNU",
+               "texto":"curta de suspense/terror que aborda o relacionamento entre pai e sua filha querida."
+            },
+            {
+               "id":"19",
+               "nome":"RUTH - vamos falar de medo ?",
+               "artista":{
+                  "id":"davimarinho",
+                  "nome":"Davi Marinho"
+               },
+               "youtube":"_cRJ4Emhhes",
+               "texto":"Em se tratando de medo cada um tem o seu. Neste caso, o de Ruth é o medo de ficar sozinha e um terrível medo de ficar no escuro. O que acontece quando essas duas situações se encontram em um dia qualquer?"
             }
          ]
       },
@@ -78,7 +264,7 @@
    ],
    "curta":[
       {
-         "id":"AMIZADE",
+         "id":"1",
          "nome":"AMIZADE",
          "artista":{
             "id":"davimarinho",
@@ -86,6 +272,186 @@
          },
          "youtube":"LGfBjKKvcSA",
          "texto":"Aborda de maneira simples e poética o significado de uma amizade. Direcionado ao público infantil, mas agradando também o publico adulto que vivenciou durante anos o seriado de Roberto Bolaños. Finaliza fazendo uma singela homenagem ao idealizador e executor do seriado Chaves."
+      },
+      {
+         "id":"2",
+         "nome":"VOCÊ FUMA?",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"Q620JBLrjnw",
+         "texto":"Em forma de conscientização na luta contra o tabagismo, o curta apresenta um diálogo entre uma criança de rua e um homem bem sucedido."
+      },
+      {
+         "id":"3",
+         "nome":"AMOR MALANDRO",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"UmC0ym7pxsE",
+         "texto":"Essa comédia retrata o relacionamento conturbado de um casal que se ama, mas sempre briga."
+      },
+      {
+         "id":"4",
+         "nome":"ESTRANHOS",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"FM_lbghl5fM",
+         "texto":"Um relacionamento entre dois jovens parece não estar indo bem. Eles praticamente não se falam e o motivo poderia estar relacionado com a mãe da garota."
+      },
+      {
+         "id":"5",
+         "nome":"ACASO, DESTINO OU ALGO MAIS",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"ZCZxaWektHA",
+         "texto":"Esta ficção coloca em evidência a questão do racismo."
+      },
+      {
+         "id":"6",
+         "nome":"190 Emergência ?",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"u1aU19uoSAs",
+         "texto":"O curta aborda as ligações telefônicas prejudiciais, conhecidas como trote, que acabam atrapalhando o serviço da Polícia."
+      },
+      {
+         "id":"7",
+         "nome":"INCONDICIONAL",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"uhcgVFNfNoE",
+         "texto":"Em sua segunda animação com fotografias, Davi Marinho consegue abordar o tema inclusão e representatividade de forma leve e delicada. Neste filme uma criança vai a um pet shop para comprar um cachorrinho, mas o dono do estabelecimento tenta fazer com que ela desista da ideia por conta de um pequeno “probleminha”."
+      },
+      {
+         "id":"8",
+         "nome":"O DUELO",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"wj3Edh1NZwc",
+         "texto":"Qual seria sua reação se um assaltante armado tentasse lhe roubar o carro que você dirige? A reação de uma velhinha foi bem surpreendente. Este foi o primeiro trabalho no audiovisual de Davi Marinho, onde ele é assistente de direção do filme que foi premiado no primeiro festival de curtas de um minuto do Amazonas."
+      },
+      {
+         "id":"9",
+         "nome":"O PRESENTE DE LUIZA",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"WD-oJv2UlSg",
+         "texto":"Um jovem tenta de várias maneiras conquistar sua amada, mas a forma como ele consegue não é nada convencional."
+      },
+      {
+         "id":"10",
+         "nome":"SINTA",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"I7N5GHv2Z-8",
+         "texto":"Um casal se despede em mais um dia de trabalho mas a esposa tem um pressentimento ruim. O que será ?"
+      },
+      {
+         "id":"11",
+         "nome":"A MESA",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"EEbc8MppQKY",
+         "texto":"Vencedor de um concurso cultural de roteiros, o filme conta a história de uma jovem que retorna a sua terra natal e, a cada esquina, relembra o passado."
+      },
+      {
+         "id":"12",
+         "nome":"Amor ao próximo",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"iI1glQTMk_A",
+         "texto":"Feito para ser uma campanha de conscientização sobre doação de órgãos, este filme foi idealizado e dirigido por Jairo Freitas, que na época esperava um transplante de fígado e hoje já está no acompanhamento pós-cirúrgico. Neste curta um acidente com uma jovem dá esperança para que Jairo, mas o grande desafio é fazer com que a família da jovem aceite dor os órgãos a quem precisa."
+      },
+      {
+         "id":"13",
+         "nome":"O PALHAÇO",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"QPYpPOCQ4YU",
+         "texto":"Um homem tem fixação por palhaços ao ponto de prejudicar seu próprio casamento. Um palhaço assassino atormenta jovens que estão em busca de diversão."
+      },
+      {
+         "id":"14",
+         "nome":"BOA NOITE PAPAI",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"RgN3m9FuFOc",
+         "texto":"Alguns relacionamentos entre pais filhos deveriam durar para sempre. Será mesmo ? BOA NOITE PAPAI, vai colocar esta duvida na cabeça de quem o assiste. Será que vale a pena ser apegado demais aos nossos filhos ?"
+      },
+      {
+         "id":"15",
+         "nome":"Que país é esse ?",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"PAx_FV8a15k",
+         "texto":"O curta questiona a valorização do professor e das pessoas que agem de má fé para conseguirem se dar bem na vida."
+      },
+      {
+         "id":"16",
+         "nome":"AGONIA",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"AkMXuKqxsBA",
+         "texto":"Gaspar é um jovem que narra uma experiência única em sua vida. Mesmo sem saber direito o que aconteceu em um momento recente, ele vai recordando tudo que vivenciou ao nos mostrar de modo confuso, o que torna a história envolvente a cada segundo. Este suspense nos instiga a querer saber que experiência é esta que deixou Gaspar tão transtornado."
+      },
+      {
+         "id":"17",
+         "nome":"ESTRANHOS",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"8_RCNJ73zd4",
+         "texto":"A história se passa em uma casa, onde duas pessoas convivem mas estão sem se falar. Luana suplica o perdão de Lucas, que ignora totalmente. Será que Lucas tem motivo para realmente ignorar Luana ? Esse suspense só será desvendado quando ambos se derem conta do que está atrapalhando sua comunicação."
+      },
+      {
+         "id":"18",
+         "nome":"BOA NOITE PAPAI",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"mJf8P4cbNNU",
+         "texto":"curta de suspense/terror que aborda o relacionamento entre pai e sua filha querida."
+      },
+      {
+         "id":"19",
+         "nome":"RUTH - vamos falar de medo ?",
+         "artista":{
+            "id":"davimarinho",
+            "nome":"Davi Marinho"
+         },
+         "youtube":"_cRJ4Emhhes",
+         "texto":"Em se tratando de medo cada um tem o seu. Neste caso, o de Ruth é o medo de ficar sozinha e um terrível medo de ficar no escuro. O que acontece quando essas duas situações se encontram em um dia qualquer?"
       },
       {
          "id":"90%",
@@ -105,7 +471,7 @@
             "nome":"Michel Guerrero"
          },
          "youtube":"VGlHyhqai78",
-         "texto":"Curta-metragem amazonense 'Cine Carmen Miranda', de Michel Guerrero."
+         "texto":"Curta-metragem amazonense 'Cine Carmen Miranda', Este é o primeiro filme dirigido pelo ator e diretor teatral Michel Guerrero."
       }
    ]
 }
