@@ -1,142 +1,142 @@
 {
-  "home": {
-    "id": "home",
-    "titulo": "Curtas AM",
-    "descricao": "Curtas Metragens Produzidos no Estado do Amazonas"
-  },
-  "contato": {
-    "id": "contato",
-    "titulo": "Contato",
-    "descricao": "Entre em contato que responderemos assim que possível.",
-    "contato": {
-      "telefone": "92 9999-9999",
-      "email": "contato@gmail.com"
-    }
-  },
-  "artistas": {
-    "id": "artistas",
-    "titulo": "artistas",
-    "descricao": "Selecione um dos artistas para ver seus trabalhos relacionados.",
-    "artistas": [
-      {
-        "id": "davimarinho",
-        "nome": "Davi Marinho",
-        "totalAulas": 43,
-        "horas": 14,
-        "descricao": "Diretor, Roteirista, Produtor, Fotógrafo e Ator"
-      },
-      {
-        "id": "thiagoalencar",
-        "nome": "Thomás Thiago Alencar",
-        "totalAulas": 30,
-        "horas": 10,
-        "descricao": "Ator, FilmMaker, Roteirista, Produtor e Editor"
-      },
-	  {
-        "id": "michelguerrero",
-        "nome": "Michel Guerrero",
-        "totalAulas": 30,
-        "horas": 10,
-        "descricao": "Ator, Performer, Diretor Teatral. Jornalista. Professor"
+   "home":{
+      "id":"home",
+      "titulo":"Curtas AM",
+      "descricao":"Curtas Metragens Produzidos no Estado do Amazonas"
+   },
+   "contato":{
+      "id":"contato",
+      "titulo":"Contato",
+      "descricao":"Entre em contato que responderemos assim que possível.",
+      "contato":{
+         "telefone":"92 9999-9999",
+         "email":"contato@gmail.com"
       }
-    ]
-  },
-  "artista": [
-    {
-      "id": "davimarinho",
-      "nome": "Davi Marinho",
-      "totalAulas": 43,
-      "horas": 14,
-      "descricao": "Diretor, Roteirista, Produtor, Fotógrafo e Ator",
-      "curtas": [
-        {
-          "id": "html",
-          "nome": "HTML e Tags"
-        },
-        {
-          "id": "css",
-          "nome": "CSS e Propriedades"
-        },
-        {
-          "id": "flexbox",
-          "nome": "CSS Flexbox"
-        }
+   },
+   "artistas":{
+      "id":"artistas",
+      "titulo":"artistas",
+      "descricao":"Selecione um dos artistas para ver seus trabalhos relacionados.",
+      "artistas":[
+         {
+            "id":"davimarinho",
+            "nome":"Davi Marinho",
+            "totalAulas":43,
+            "horas":14,
+            "descricao":"Diretor, Roteirista, Produtor, Fotógrafo e Ator"
+         },
+         {
+            "id":"thiagoalencar",
+            "nome":"Thomás Thiago Alencar",
+            "totalAulas":30,
+            "horas":10,
+            "descricao":"Ator, FilmMaker, Roteirista, Produtor e Editor"
+         },
+         {
+            "id":"michelguerrero",
+            "nome":"Michel Guerrero",
+            "totalAulas":30,
+            "horas":10,
+            "descricao":"Ator, Performer, Diretor Teatral. Jornalista. Professor"
+         }
       ]
-    },
-    {
-      "id": "thiagoalencar",
-      "nome": "Thomás Thiago Alencar",
-      "totalAulas": 30,
-      "horas": 10,
-      "descricao": "Ator, FilmMaker, Roteirista, Produtor e Editor",
-      "curtas": [
-        {
-          "id": "90%",
-          "nome": "90%"
-        },
-      ]
-    },
-	{
-        "id": "michelguerrero",
-        "nome": "Michel Guerrero",
-        "totalAulas": 30,
-        "horas": 10,
-        "descricao": "Ator, Performer, Diretor Teatral. Jornalista. Professor",
-		"curtas": [
-        {
-          "id": "CineCarmenMiranda",
-          "nome": "Cine Carmen Miranda"
-        },
-      ]
+   },
+   "artista":[
+      {
+         "id":"davimarinho",
+         "nome":"Davi Marinho",
+         "totalAulas":43,
+         "horas":14,
+         "descricao":"Diretor, Roteirista, Produtor, Fotógrafo e Ator",
+         "curtas":[
+            {
+               "id":"html",
+               "nome":"HTML e Tags"
+            },
+            {
+               "id":"css",
+               "nome":"CSS e Propriedades"
+            },
+            {
+               "id":"flexbox",
+               "nome":"CSS Flexbox"
+            }
+         ]
       },
-  ],
-  "curta": [
-    {
-      "id": "css",
-      "nome": "CSS e Propriedades",
-      "artista": {
-        "id": "html-e-css",
-        "nome": "HTML e CSS"
+      {
+         "id":"thiagoalencar",
+         "nome":"Thomás Thiago Alencar",
+         "totalAulas":30,
+         "horas":10,
+         "descricao":"Ator, FilmMaker, Roteirista, Produtor e Editor",
+         "curtas":[
+            {
+               "id":"90%",
+               "nome":"90%"
+            }
+         ]
       },
-      "youtube": "mWYCWAPj0gM"
-    },
-    {
-      "id": "flexbox",
-      "nome": "CSS Flexbox",
-      "artista": {
-        "id": "html-e-css",
-        "nome": "HTML e CSS"
+      {
+         "id":"michelguerrero",
+         "nome":"Michel Guerrero",
+         "totalAulas":30,
+         "horas":10,
+         "descricao":"Ator, Performer, Diretor Teatral. Jornalista. Professor",
+         "curtas":[
+            {
+               "id":"CineCarmenMiranda",
+               "nome":"Cine Carmen Miranda"
+            }
+         ]
+      }
+   ],
+   "curta":[
+      {
+         "id":"css",
+         "nome":"CSS e Propriedades",
+         "artista":{
+            "id":"html-e-css",
+            "nome":"HTML e CSS"
+         },
+         "youtube":"mWYCWAPj0gM"
       },
-      "youtube": "qq0z-YSPJLI"
-    },
-    {
-      "id": "html",
-      "nome": "HTML e Tags",
-      "artista": {
-        "id": "html-e-css",
-        "nome": "HTML e CSS"
+      {
+         "id":"flexbox",
+         "nome":"CSS Flexbox",
+         "artista":{
+            "id":"html-e-css",
+            "nome":"HTML e CSS"
+         },
+         "youtube":"qq0z-YSPJLI"
       },
-      "youtube": "nl-Is79eyD8"
-    },
-    {
-      "id": "90%",
-      "nome": "90%",
-      "artista": {
-        "id": "thiagoalencar",
-        "nome": "Thomás Thiago Alencar",
+      {
+         "id":"html",
+         "nome":"HTML e Tags",
+         "artista":{
+            "id":"html-e-css",
+            "nome":"HTML e CSS"
+         },
+         "youtube":"nl-Is79eyD8"
       },
-      "youtube": "https://www.youtube.com/watch?v=rUR1CSFCl8o&ab_channel=thomasalencar",
-	  texto: "Neste curta de Thiago Alencar, a Depressão é Abordada, de maneira rápida e Objetiva, os casos de suicídios tem sido comuns na nossa sociedade, muito ainda se deve fazer para ajudar pessoas que sofrem com a depressão."
-    },
-    {
-      "id": "CineCarmenMiranda",
-      "nome": "Cine Carmen Miranda",
-      "artista": {
-        "id": "michelguerrero",
-        "nome": "Michel Guerrero"
+      {
+         "id":"90%",
+         "nome":"90%",
+         "artista":{
+            "id":"thiagoalencar",
+            "nome":"Thomás Thiago Alencar"
+         },
+         "youtube":"https://www.youtube.com/watch?v=rUR1CSFCl8o&ab_channel=thomasalencar",
+         "texto":"Neste curta de Thiago Alencar, a Depressão é Abordada, de maneira rápida e Objetiva, os casos de suicídios tem sido comuns na nossa sociedade, muito ainda se deve fazer para ajudar pessoas que sofrem com a depressão."
       },
-      "youtube": "https://www.youtube.com/watch?v=VGlHyhqai78&ab_channel=MichelGuerrero",
-	  texto: "Curta-metragem amazonense 'Cine Carmen Miranda', de Michel Guerrero."
-    }
-  ]
+      {
+         "id":"CineCarmenMiranda",
+         "nome":"Cine Carmen Miranda",
+         "artista":{
+            "id":"michelguerrero",
+            "nome":"Michel Guerrero"
+         },
+         "youtube":"https://www.youtube.com/watch?v=VGlHyhqai78&ab_channel=MichelGuerrero",
+         "texto":"Curta-metragem amazonense 'Cine Carmen Miranda', de Michel Guerrero."
+      }
+   ]
 }
