@@ -21,23 +21,20 @@
          {
             "id":"davimarinho",
             "nome":"Davi Marinho",
-            "totalAulas":43,
             "horas":14,
             "descricao":"Diretor, Roteirista, Produtor, Fotógrafo e Ator"
          },
          {
             "id":"thiagoalencar",
             "nome":"Thomás Thiago Alencar",
-            "totalAulas":30,
-            "horas":10,
+            "horas":01,
             "descricao":"Ator, FilmMaker, Roteirista, Produtor e Editor"
          },
          {
             "id":"michelguerrero",
             "nome":"Michel Guerrero",
-            "totalAulas":30,
-            "horas":10,
-            "descricao":"Ator, Performer, Diretor Teatral. Jornalista. Professor"
+            "horas":01,
+            "descricao":"Ator, Roteirista, Performer, Diretor Teatral e Cinematografico. Jornalista. Professor"
          }
       ]
    },
@@ -45,7 +42,6 @@
       {
          "id":"davimarinho",
          "nome":"Davi Marinho",
-         "totalAulas":43,
          "horas":14,
          "descricao":"Diretor, Roteirista, Produtor, Fotógrafo e Ator",
          "curtas":[
@@ -66,8 +62,7 @@
       {
          "id":"thiagoalencar",
          "nome":"Thomás Thiago Alencar",
-         "totalAulas":30,
-         "horas":10,
+         "horas":01,
          "descricao":"Ator, FilmMaker, Roteirista, Produtor e Editor",
          "curtas":[
             {
@@ -79,9 +74,8 @@
       {
          "id":"michelguerrero",
          "nome":"Michel Guerrero",
-         "totalAulas":30,
-         "horas":10,
-         "descricao":"Ator, Performer, Diretor Teatral. Jornalista. Professor",
+         "horas":01,
+         "descricao":"Ator, Roteirista, Performer, Diretor Teatral e Cinematografico. Jornalista. Professor"
          "curtas":[
             {
                "id":"CineCarmenMiranda",
