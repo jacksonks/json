@@ -13,9 +13,9 @@
       "email": "contato@gmail.com"
     }
   },
-  "curtas": {
-    "id": "curtas",
-    "titulo": "Curtas",
+  "artistas": {
+    "id": "artistas",
+    "titulo": "artistas",
     "descricao": "Selecione um dos artistas para ver seus trabalhos relacionados.",
     "artistas": [
       {
