@@ -46,16 +46,8 @@
          "descricao":"Diretor, Roteirista, Produtor, Fotógrafo e Ator",
          "curtas":[
             {
-               "id":"html",
-               "nome":"HTML e Tags"
-            },
-            {
-               "id":"css",
-               "nome":"CSS e Propriedades"
-            },
-            {
-               "id":"flexbox",
-               "nome":"CSS Flexbox"
+               "id":"AMIZADE",
+               "nome":"AMIZADE"
             }
          ]
       },
@@ -86,32 +78,15 @@
    ],
    "curta":[
       {
-         "id":"css",
-         "nome":"CSS e Propriedades",
+         "id":"AMIZADE",
+         "nome":"AMIZADE",
          "artista":{
 			 "id":"davimarinho",
 			 "nome":"Davi Marinho",
          },
          "youtube":"LGfBjKKvcSA",
-		 "texto":"1 https://www.youtube.com/watch?v=LGfBjKKvcSA
-		2 https://www.youtube.com/watch?v=Q620JBLrjnw
-		3 https://www.youtube.com/watch?v=UmC0ym7pxsE
-		4 https://www.youtube.com/watch?v=FM_lbghl5fM
-		5 https://www.youtube.com/watch?v=ZCZxaWektHA
-		6 https://www.youtube.com/watch?v=u1aU19uoSAs
-		7 https://www.youtube.com/watch?v=uhcgVFNfNoE
-		8 https://www.youtube.com/watch?v=wj3Edh1NZwc
-		9 https://www.youtube.com/watch?v=WD-oJv2UlSg
-		10 https://www.youtube.com/watch?v=I7N5GHv2Z-8
-		11 https://www.youtube.com/watch?v=EEbc8MppQKY
-		12 https://www.youtube.com/watch?v=iI1glQTMk_A
-		13 https://www.youtube.com/watch?v=QPYpPOCQ4YU
-		14 https://www.youtube.com/watch?v=RgN3m9FuFOc
-		15 https://www.youtube.com/watch?v=PAx_FV8a15k
-		16 https://www.youtube.com/watch?v=AkMXuKqxsBA
-		17 https://www.youtube.com/watch?v=8_RCNJ73zd4
-		18 https://www.youtube.com/watch?v=mJf8P4cbNNU
-		19 https://www.youtube.com/watch?v=_cRJ4Emhhes"
+		 "texto":"Aborda de maneira simples e poética o significado de uma amizade. 
+Direcionado ao público infantil, mas agradando também o publico adulto que vivenciou durante anos o seriado de Roberto Bolaños. Finaliza fazendo uma singela homenagem ao idealizador e executor do seriado Chaves."
       },
       {
          "id":"90%",
