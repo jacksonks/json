@@ -75,8 +75,8 @@
          "id":"michelguerrero",
          "nome":"Michel Guerrero",
          "horas":1,
-         "descricao":"Ator, Roteirista, Performer, Diretor Teatral e Cinematografico. Jornalista. Professor"
-         "curtas":[
+         "descricao":"Ator, Roteirista, Performer, Diretor Teatral e Cinematografico. Jornalista. Professor",
+		 "curtas":[
             {
                "id":"CineCarmenMiranda",
                "nome":"Cine Carmen Miranda"
